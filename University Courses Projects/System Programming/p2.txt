@@ -1,0 +1,1 @@
+This is source file 2 and will be copied in deestination
