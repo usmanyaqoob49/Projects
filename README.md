@@ -1,2 +1,2 @@
 # Projects
-hello world:)
+hello world
